@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "c#_offlineHomework_S2/1.0.0": {
+        "runtime": {
+          "c#_offlineHomework_S2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c#_offlineHomework_S2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
