@@ -9,6 +9,7 @@ namespace c__offlineHomework_S2
     {
         public List<Bee> beeList;
         public int maxbees;
+        public string name; 
 
         ///-.!---.!---.!---.!---.!-- Constructor .!---.!---.!---.!--///
         public Beehive()
@@ -16,18 +17,16 @@ namespace c__offlineHomework_S2
             
         }
 
-        public Beehive(int maxbees)
+        public Beehive(int maxbees, string name)
         {
             this.maxbees = maxbees;
+            this.name = name;
+            this.beeList = new List<Bee>();
         }
 
         ///.!---.!---.!---.!--- MEthods .!---.!---.!---///
 
-        public void createBeeList() 
-        {
-            this.beeList = new List<Bee>();
-        }
-
+        
         public void addBeetoList(Bee newBee)
         {
             this.beeList.Add(newBee);
@@ -42,21 +41,21 @@ namespace c__offlineHomework_S2
             {
                 Amount = Amount + days * bee.beeSize * 0.2F;
             }
-        
 
-            
-            Console.WriteLine($"Your hive collected {Amount} of honey");
+            Console.WriteLine($"{this.name} collected {Amount} of honey");
         }
+
 
         public void numBeesHive()
         {
+            
             int counter = 0;
             for (int i = 0; i < this.beeList.Count; i++)
             {
                counter++; 
             }
 
-            Console.WriteLine($"This beehive has {counter} bees in it!");
+            Console.WriteLine($"{this.name} has {counter} bees in it!");
         }   
 
     }
