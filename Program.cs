@@ -35,6 +35,7 @@ namespace c__offlineHomework_S2
 
           h1.collectHoney(5);
           
+          h1.numBeesHive();
           
 
 

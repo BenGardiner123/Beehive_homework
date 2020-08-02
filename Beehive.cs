@@ -48,6 +48,16 @@ namespace c__offlineHomework_S2
             Console.WriteLine($"Your hive collected {Amount} of honey");
         }
 
+        public void numBeesHive()
+        {
+            int counter = 0;
+            for (int i = 0; i < this.beeList.Count; i++)
+            {
+               counter++; 
+            }
+
+            Console.WriteLine($"This beehive has {counter} bees in it!");
+        }   
 
     }
 

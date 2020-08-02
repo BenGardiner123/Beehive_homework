@@ -11,3 +11,16 @@ C:\Users\User\Desktop\c#_offlineHomework_S2\obj\Debug\netcoreapp3.1\c#_offlineHo
 C:\Users\User\Desktop\c#_offlineHomework_S2\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.dll
 C:\Users\User\Desktop\c#_offlineHomework_S2\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.pdb
 C:\Users\User\Desktop\c#_offlineHomework_S2\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.genruntimeconfig.cache
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\bin\Debug\netcoreapp3.1\c#_offlineHomework_S2.exe
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\bin\Debug\netcoreapp3.1\c#_offlineHomework_S2.deps.json
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\bin\Debug\netcoreapp3.1\c#_offlineHomework_S2.runtimeconfig.json
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\bin\Debug\netcoreapp3.1\c#_offlineHomework_S2.runtimeconfig.dev.json
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\bin\Debug\netcoreapp3.1\c#_offlineHomework_S2.dll
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\bin\Debug\netcoreapp3.1\c#_offlineHomework_S2.pdb
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.csprojAssemblyReference.cache
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.csproj.CoreCompileInputs.cache
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.AssemblyInfoInputs.cache
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.AssemblyInfo.cs
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.dll
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.pdb
+C:\Users\Cooler Master\Documents\swinburne\Beehive_homework\obj\Debug\netcoreapp3.1\c#_offlineHomework_S2.genruntimeconfig.cache
